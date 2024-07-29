@@ -22,7 +22,7 @@ This project is a web interface for question answering (QA) on PDF documents. It
 
     ```bash
     git clone https://github.com/nugh75/PDF-Insight-Bot.git
-    cd PDF-Insight-Bot.git
+    cd PDF-Insight-Bot
     ```
 
 2. Create a virtual environment (optional but recommended):
