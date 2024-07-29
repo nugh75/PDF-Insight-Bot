@@ -21,8 +21,8 @@ This project is a web interface for question answering (QA) on PDF documents. It
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+   https://github.com/nugh75/PDF-Insight-Bot.git
+    cd PDF-Insight-Bot.git
     ```
 
 2. Create a virtual environment (optional but recommended):
