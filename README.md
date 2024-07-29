@@ -29,6 +29,11 @@ This project is a web interface for question answering (QA) on PDF documents. It
 
     ```bash
     python -m venv myenv
+     ```
+
+2.b activate the virtual enviroment
+
+    ```bash
     source myenv/bin/activate  # On Windows use `myenv\Scripts\activate`
     ```
 
