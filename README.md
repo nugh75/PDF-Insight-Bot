@@ -1,6 +1,3 @@
-# PDF-Insight-Bot
-PDF Insight Bot is a web interface for question answering on PDF documents, leveraging Streamlit, LangChain, and FAISS for efficient text retrieval and response generation. Upload a PDF, ask questions, and get instant answers based on the document's content.
-
 # PDF Insight Bot: Your QA Interface for PDF Documents
 
 This project is a web interface for question answering (QA) on PDF documents. It uses Streamlit for the user interface, LangChain for handling language and embedding models, and FAISS for indexing and searching.
