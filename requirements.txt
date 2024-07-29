@@ -1,0 +1,10 @@
+streamlit==1.23.1
+langchain-openai==0.0.1
+langchain-document-loaders==0.0.1
+langchain-community-vectorstores==0.0.1
+langchain-huggingface==0.0.1
+langchain-text-splitter==0.0.1
+langchain-chains==0.0.1
+faiss-cpu==1.7.3
+PyPDF2==3.0.1
+requests==2.28.1
