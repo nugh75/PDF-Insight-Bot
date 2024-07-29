@@ -21,14 +21,14 @@ This project is a web interface for question answering (QA) on PDF documents. It
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+    git clone https://github.com/nugh75/PDF-Insight-Bot.git
+    cd PDF-Insight-Bot.git
     ```
 
 2. Create a virtual environment (optional but recommended):
 
     ```bash
-    python3.10 -m venv myenv
+    python -m venv myenv
     source myenv/bin/activate  # On Windows use `myenv\Scripts\activate`
     ```
 
