@@ -21,8 +21,8 @@ This project is a web interface for question answering (QA) on PDF documents. It
 1. Clone the repository:
 
     ```bash
-   https://github.com/nugh75/PDF-Insight-Bot.git
-    cd PDF-Insight-Bot.git
+    git clone https://github.com/your-username/your-repository.git
+    cd your-repository
     ```
 
 2. Create a virtual environment (optional but recommended):
@@ -53,17 +53,9 @@ To use Ollama locally with this script, ensure you have Ollama installed and con
     ```bash
     streamlit run app.py
     ```
+2. Select the Hugging Face embedding model, the GPT model and temperature.
 
-2. Upload a PDF file via the web interface.
-
-3. Select the Hugging Face embedding model and the GPT model.
-
-    ```python
-    # Select embedding model and GPT model
-    model_name = st.selectbox("Choose a Hugging Face model", ["sentence-transformers/all-MiniLM-L6-v2", "sentence-transformers/all-MiniLM-L12-v2"])
-    gpt_model = st.selectbox("Choose a LLM model", ["llama3", "phi3", "gemma2"])
-    temperature = st.slider("Adjust the temperature", 0.0, 1.0, 0.3)
-    ```
+3. Upload a PDF file via the web interface.
 
 4. Enter your questions (one per line) and click "Get Answers".
 
@@ -101,5 +93,6 @@ If you wish to contribute, please fork the repository and create a pull request 
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the GPLv3 License. See the LICENSE file for more details.
+
 
