@@ -33,15 +33,15 @@ This project is a web interface for question answering (QA) on PDF documents. It
 
 2.b activate the virtual enviroment
 
-    ```bash
+ ```bash
     source myenv/bin/activate  # On Windows use `myenv\Scripts\activate`
-    ```
+ ```
 
 3. Install the dependencies:
 
-    ```bash
+  ```bash
     pip install -r requirements.txt
-    ```
+  ```
 
 ## Configuring Ollama Locally
 
